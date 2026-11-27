@@ -81,6 +81,7 @@ return 0;
 }
 ```
 ## OUTPUT
+<img width="1148" height="612" alt="Screenshot 2026-11-27 105741" src="https://github.com/user-attachments/assets/c74dab56-c0ff-4f98-97e4-f946229d3aad" />
 
 
 
